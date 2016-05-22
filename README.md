@@ -1,0 +1,3 @@
+Simple babel boilerplate with crucial and up-to-date dependencies
+
+In Progress...
